@@ -26,3 +26,5 @@ To check the bitcoin address, you must read the first twenty-one bytes, compute 
  1. You can type the address in [duckduckgo.com](https://duckduckgo.com) and see the details if it is a valid bitcoin address.
  2. Go [here](https://thomas.vanhoutte.be/tools/validate-bitcoin-address.php) and enter your
     address.
+
+Collected from [rosettacode.org](https://rosettacode.org/wiki/Bitcoin/address_validation#PHP)
