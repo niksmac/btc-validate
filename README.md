@@ -15,4 +15,6 @@ Check a Bitcoin address for its validity. This tool will see if the given string
 
  1. You can type the address in [duckduckgo.com](https://duckduckgo.com) and see the details if it
     is a valid bitoin address.
+ 2. Go [here](https://thomas.vanhoutte.be/tools/validate-bitcoin-address.php) and enter your
+    address.
 
