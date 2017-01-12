@@ -15,6 +15,12 @@ With this encoding, a bitcoin address encodes 25 bytes:
 
 To check the bitcoin address, you must read the first twenty-one bytes, compute the checksum, and check that it corresponds to the last four bytes.
 
+## Scripts
+
+1. [Golang](src/btc-validate.go)
+1. [Ruby](src/src/btc-validate.rb)
+1. [PHP](src/src/btc-validate.php)
+
 **Some key facts about valid Bitcoin addresses:**
 
  * A Bitcoin address is between 25 and 34 characters long;
